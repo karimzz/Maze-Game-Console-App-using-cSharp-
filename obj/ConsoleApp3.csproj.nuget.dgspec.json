@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karim\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {}
+    "C:\\Users\\karim\\Downloads\\Maze-Game-Console-App-using-cSharp-\\ConsoleApp3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karim\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {
+    "C:\\Users\\karim\\Downloads\\Maze-Game-Console-App-using-cSharp-\\ConsoleApp3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karim\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectUniqueName": "C:\\Users\\karim\\Downloads\\Maze-Game-Console-App-using-cSharp-\\ConsoleApp3.csproj",
         "projectName": "ConsoleApp3",
-        "projectPath": "C:\\Users\\karim\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectPath": "C:\\Users\\karim\\Downloads\\Maze-Game-Console-App-using-cSharp-\\ConsoleApp3.csproj",
         "packagesPath": "C:\\Users\\karim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karim\\source\\repos\\ConsoleApp3\\ConsoleApp3\\obj\\",
+        "outputPath": "C:\\Users\\karim\\Downloads\\Maze-Game-Console-App-using-cSharp-\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
